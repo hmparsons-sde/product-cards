@@ -13,7 +13,7 @@ body {
 }
 
 div header {
-  border: 1px solid lightblue;
+  border: 1px solid #BDBDBD;
   text-align: center;
   justify-content: center;
 }
@@ -31,6 +31,15 @@ div p {
 }
 
 .availability {
-  background-color: darkgray;
-  color: yellow;
+  background-color: #BDBDBD;
+  color: #212121;
 }
+
+.dark-primary-color    { background: #455A64; }
+.default-primary-color { background: #607D8B; }
+.light-primary-color   { background: #CFD8DC; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #9E9E9E; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
