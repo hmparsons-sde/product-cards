@@ -26,5 +26,6 @@ As a user, I can view the tea cards and discern which are available and which ar
 ![Product Cards 2](https://user-images.githubusercontent.com/67122062/106403229-1aa29f00-63f3-11eb-928f-71cdb50dbba9.png)
 
 **NETLIFY:**
+https://hmp-product-cards.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4cbfee15-c6e4-4b92-b434-eba2fdecb00b/deploy-status)](https://app.netlify.com/sites/hmp-product-cards/deploys)
